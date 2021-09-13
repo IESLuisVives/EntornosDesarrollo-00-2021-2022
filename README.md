@@ -2,7 +2,7 @@
 
 Entornos de Desarrollo. Presentación. Curso 2021/2022.
 
-![imagen](https://thesoftclix.com/wp-content/uploads/2019/09/unnamed-1.png)
+![imagen](https://www.businesstrends.com.pk/wp-content/uploads/2019/03/Web-Development-Company.png)
 
 ## Contenidos
 1. Desarrollo de Software
